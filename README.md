@@ -26,11 +26,11 @@ Sou um programador apaixonado por tecnologia e sempre estou buscando aprender e 
 
 - Css
 
-**Tecnologia abordadas:**
+### Tecnologia abordadas:
 
-*Eclipse - Git - GitHub - Vscode - GCP - Flutter - VirtualBox*
+*Eclipse - Git - GitHub - Vscode - GCP - Flutter - VirtualBox - Arduino*
 
-**Sistemas operacionais:** 
+### Sistemas operacionais:
 
 *Ubuntu - Windows - MacOS*
 
@@ -40,7 +40,7 @@ Sobre min:
 
 >Sou uma pessoa muito comunicativa que sempre tenta ajudar todo munto. Gosto muito de ler e estou sempre buscando aprender cada vez mais.
 
-** 🌐 Socials: **
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Victor.Dev#6565) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jair.victor.oficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jair-victor/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JairVictorDEV) 
 
 ### 🔝 Top Contributed Repo
