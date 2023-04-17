@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=vue-dark&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=header"/>
 
 ### Olá programadores e Recrutadores 👋
 
@@ -60,4 +60,4 @@ else:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=vue-dark&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=footer"/>
