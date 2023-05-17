@@ -51,11 +51,7 @@ if contratado == True:
 else:
   print("Contiuarei tentando")
 ```
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JairAssisDev}/count.svg" /></p> 
-<br>
-</div>
+
 
 ![Snake animation](https://github.com/JairAssisDev/JairAssisDev/blob/output/github-contribution-grid-snake.svg)
 
