@@ -4,12 +4,12 @@
 
 Sou um programador apaixonado por tecnologia e estou sempre buscando aprender e crescer. Seja muito bem-vindo(a)!
 
-<div align="center">
-  <a href="https://github.com/JairAssisDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=JairAssisDev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+### 🔝 Principais repositórios contribuídos
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=JairAssisDev&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/JairAssisDev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairAssisDev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </a>
-</div>
+</a>
 
 ### Linguagens usadas:
 - Java
@@ -53,8 +53,7 @@ Sobre mim:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-victor/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JairVictorDEV)
 
-### 🔝 Principais repositórios contribuídos
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=JairAssisDev&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
 
 ```python
 if contratado == True:
@@ -62,10 +61,5 @@ if contratado == True:
 else:
     print("Continuarei tentando")
 ```
-
-
-![Snake animation](https://raw.githubusercontent.com/JairAssisDev/JairAssisDev/output/github-contribution-grid-snake.svg)
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=062a2c&height=120&section=footer"/>
