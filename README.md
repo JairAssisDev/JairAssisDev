@@ -2,7 +2,7 @@
 
 ### Olá programadores e Recrutadores! 👋
 
-Sou um programador apaixonado por tecnologia e estou sempre buscando aprender e crescer. Seja muito bem-vindo(a)!
+Seja muito bem-vindo(a)!
 
 
 ### 🔝 Principais repositórios contribuídos
