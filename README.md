@@ -43,7 +43,7 @@
 
 Sobre mim:
 
-> Backend developer who believes that technology has the power to change lives and the opportunities it provides.I seek to expand my knowledge and improve my skills...
+> Backend developer who believes that technology has the power to change lives and the in opportunities it provides.I seek to expand my knowledge and improve my skills...
 
 ### 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Victor.Dev#6565)
