@@ -43,7 +43,7 @@
 
 Sobre mim:
 
-> Sou uma pessoa muito comunicativa que sempre tenta ajudar todo mundo. Gosto muito de ler e estou sempre buscando aprender cada vez mais.
+> A programmer on fire with technology looking for new opportunities to expand my knowledge and improve my skills...
 
 ### 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Victor.Dev#6565)
