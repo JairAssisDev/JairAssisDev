@@ -3,7 +3,7 @@
 <tr>
   
   <td valign="center">
-   <a href="https://app.daily.dev/jairassisdev"><img src="https://api.daily.dev/devcards/v2/9aKGjr7am8zCLuzQ9h7DV.png?r=chx" width="800" alt="jair victor's Dev Card"/></a>
+   <a href="https://app.daily.dev/jairassisdev"><img src="https://api.daily.dev/devcards/v2/9aKGjr7am8zCLuzQ9h7DV.png?r=chx" width="1000" alt="jair victor's Dev Card"/></a>
     <td >
 <h1 align="center">Hi! I'm Jair Victor</h1>
 <h3 align="center"> Backend developer who believes that technology has the power to change lives and the in opportunities it provides.I seek to expand my knowledge and improve my skills...</h3>
