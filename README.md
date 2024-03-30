@@ -41,4 +41,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=JairAssisDev&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 
-  ![Snake animation](https://github.com/phstutors/JairAssisDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JairAssisDev/JairAssisDev/blob/output/github-contribution-grid-snake.svg)
