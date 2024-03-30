@@ -40,5 +40,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JairAssisDev&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-
-  ![Snake animation](https://github.com/JairAssisDev/JairAssisDev/blob/output/github-contribution-grid-snake.svg)
+```python
+if contratado == True:
+    print("Feliz da vida!!!")
+else:
+    print("Continuarei tentando")
+```
