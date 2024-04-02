@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.linkedin.com/in/jair-victor/">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,linux,git,dotnet,python,flask,cpp,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,linux,git,python,flask,cpp,js,html,css&theme=dark" />
   </a>
      </p>
 
